@@ -9,6 +9,7 @@ Econometrics Analysis of Phillips Curve for Sweden:
 3.  Expanded model with interest rates
 4.  Expanded model with average wages
 
+Structure:
 * Linear Regression
 * Significance Testing
 * Testing Homoskedasticity
